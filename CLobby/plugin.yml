@@ -1,0 +1,7 @@
+name: CLobby
+version: 1.0.0
+main: cat.valetine.lobby.main.Main
+commands:
+    sethub:
+    lobby:
+      aliases: [hub]
